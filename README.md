@@ -5,3 +5,5 @@ This website is provided an example site for the STC Web Development Bootcamp (J
 * Adding and formatting images
 * Designing a sticky navigation bar
 * Adding and styling a banner image
+
+View the site [here](https://norahrid.github.io/htsk/).
